@@ -382,9 +382,9 @@ public class Moment {
 
   /* Format */
 
-  public native Moment fotmat();
+  public native Moment format();
 
-  public native Moment fotmat(String s);
+  public native Moment format(String s);
 
   /* Time from now */
 
