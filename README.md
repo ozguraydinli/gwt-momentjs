@@ -1,6 +1,6 @@
 # gwt-momentjs
 
-A GWT wrapper for [Moment.js](https://momentjs.com/) using JsInterop.
+A GWT wrapper for [Moment.js v2.22.0](https://momentjs.com/) using JsInterop.
 
 <br>
 
