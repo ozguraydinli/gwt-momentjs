@@ -88,11 +88,6 @@ public class Moment {
   @JsMethod(namespace = JsPackage.GLOBAL)
   public static native Moment moment(double milliseconds);
 
-  /* Date */
-
-  @JsMethod(namespace = JsPackage.GLOBAL)
-  public static native Moment moment(Date date);
-
   /* Array */
 
   @JsMethod(namespace = JsPackage.GLOBAL)
